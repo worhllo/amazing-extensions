@@ -23,55 +23,22 @@
 
 ## 目录
 
-- [前端开发](#前端开发)
-- [后端开发](#后端开发)
+
 - [辅助增强](#辅助增强)
-- [设计](#设计)
-- [产品](#产品)
+- [艺术设计](#艺术设计)
 - [音频视频](#音频视频)
 - [书签阅读](#书签阅读)
 - [翻译](#翻译)
+- [人工智能](#人工智能)
 - [科学上网](#科学上网)
 - [远程协助](#远程协助)
+- [开发者工具](#开发者工具)
 - [Tampermonkey脚本](#Tampermonkey脚本)
 - [非Chrome插件](#非Chrome插件)
 
 
-### 前端开发
-* 前段开发必备插件  
-    * [Prism Pretty](https://chrome.google.com/webstore/detail/prism-pretty/hjjcdjnncffbbhlglkipjhljmocnehim) - 高亮HTML、CSS、JS代码
-    * [Fed_Navigation](https://chrome.google.com/webstore/detail/%E5%89%8D%E7%AB%AF%E5%AF%BC%E8%88%AA/kimhkkondjpjhnllknndckjppgbjnjai?hl=zh-CN%EF%BC%89) - 前端及其设计必备网站导航插件，很赞。
-    * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - ReactJs开发者工具。
-    * [PageSpeed Insights (with PNaCl)](https://chrome.google.com/webstore/detail/pagespeed-insights-with-p/lanlbpjbalfkflkhegagflkgcfklnbnh) - 页面优化检测。
-    * [WEB前端助手](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad) - 百度出的一款前端小工具集合，很好用。
-    * [RegExp Tester](https://chrome.google.com/webstore/detail/regexp-tester/fekbbmalpajhfifodaakkfeodkpigjbk) - 正则表达式测试工具。
-    * [Advanced REST client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo) - 测试HTTP请求。
-    * [CSS Grady](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - 可以快速调整浏览器窗口的尺寸，用于观察网站页面宽度。
-    * [Flag for Chrome](https://chrome.google.com/webstore/detail/flag-for-chrome/dbpojpfdiliekbbiplijcphappgcgjfn) - 在地址栏显示网站所在地区的国旗，还可以显示RP值和alexa排名。
-    * [CSS-Shack](https://chrome.google.com/webstore/detail/css-shack/geiccgjkigajaicecnhdokggninehdlp?hl=zh-CN) - 允许您创建图层样式（就像图像编辑软件），并将其导出为 CSS 文件，或者复制到剪贴板。
-    * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=zh-CN) - 格式化JSON，非常好用。
-    * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) - 前端程序员不可缺少的插件Postman。
-    * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - 检测网站使用的架构。
-    * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - EditThisCookie是一个cookie管理器。您可以添加，删除，编辑，搜索，锁定和屏蔽cookies。
-    * [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - 调试AngularJS插件。
-    * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Vuejs调试插件。
-    * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - 各种Web开发小功能。
-    * [YSlow](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) - YSlow可以分析网页，并为改善网页性能提出修改建议，这些功能基于高性能网页的规则集。
-    * [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator/dmpfoncmmihgkooacnplecaopcefceam) - Chrome地址栏中以图标形式提示JavaScript错误。
-    * [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - 此扩展可以调整浏览器窗口的大小，以适应各种屏幕分辨率。
-    * [jQuerify](https://chrome.google.com/webstore/detail/jquerify/gbmifchmngifmadobkcpijhhldeeelkc?hl=zh-CN) - jQuery扩展让你在当前网页中运行JavaScript和jQuery命令。
-    * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - 查看当前页面使用了哪些字体。
-    * [Pretty Beautiful Javascript](https://chrome.google.com/webstore/detail/piekbefgpgdecckjcpffhnacjflfoddg) - 使Javascript文件更容易阅读，添加高亮，格式化。
-    * [Firebug Lite](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench?hl=zh-CN) - Firebug的精简版。
-    * [SnappySnippet](https://chrome.google.com/webstore/detail/snappysnippet/blfngdefapoapkcdibbdkigpeaffgcil?hl=en) - 抽离页面组件代码。
-    * [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif/related?hl=en-GB) - 快速验证你的 HTMl 文档明显错误。
-    * [Responsive Web Design Tester](https://chrome.google.com/webstore/detail/responsive-web-design-tes/objclahbaimlfnbjdeobicmmlnbhamkg?hl=en) 移动端页面适配利器。
-    * [Chrome Sniffer Plus](https://chrome.google.com/webstore/detail/chrome-sniffer-plus/fhhdlnnepfjhlhilgmeepgkhjmhhhjkh) 查看网站使用了哪些技术。
-    * [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn) 清除页面缓存。
-    * [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb) 快速启动小项目或Demo的神器。
 
-### 后端开发
-* 后台开发插件汇聚 
+
 
 ### 辅助增强
 * 辅助性质的插件 
@@ -109,7 +76,7 @@
     * [百度贴吧助手](https://chrome.google.com/webstore/detail/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E5%8A%A9%E6%89%8B/ndjhhagfolibokijbgljdmgibmpdfdmj) - 百度贴吧自动签到，自定义表情，阅读魔法书，翻转帖子中图片，设置朋友昵称，自定义背景图，一键换号，大召唤系统，吧务工具扫描广告贴，等等。
     * [Session Manager](https://chrome.google.com/webstore/detail/session-manager/mghenlmbmjcpehccoangkdpagbcbkdpc?hl=zh-CN) - 打开了很多网页并且还没消化完网页的信息就要关机时，又不想收藏，可以加个会话，以后想看可以继续看。 
     * [Papier](https://chrome.google.com/webstore/detail/papier/hhjeaokafplhjoogdemakihhdhffacia?hl=zh-CN) - 一个记事本，很简约。 
-### 设计
+### 艺术设计
 * 设计师插件汇聚 
     * [Text Mode](https://chrome.google.com/webstore/detail/text-mode/adelhekhakakocomdfejiipdnaadiiib) - 黑白显示页面，图片将替换成色块方便查看页面布局是否合理。
     * [Blipshot — one click screenshots](https://chrome.google.com/webstore/detail/blipshot-%E2%80%94-one-click-scre/mdaboflcmhejfihjcbmdiebgfchigjcf) - 生成网页截图。
@@ -122,12 +89,6 @@
     * [The Microstock Photo Power Search Tool!](https://chrome.google.com/webstore/detail/the-microstock-photo-powe/ehipnpjjaejnoajfkkgonkhpkpiocekl?hl=zh-CN) - 一个强力的图片搜索工具。
     * [Palette Creator](https://chrome.google.com/webstore/detail/palette-creator/oolpphfmdmjbojolagcbgdemojhcnlod?hl=zh-CN) - 您只需右键点击任何图片。此插件可以创建一个16、24或32调色板。
 
-
-### 产品
-* 产品经理用的一些插件
-    * [Axure RP Extension for Chrome](https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp?hl=zh-CN) - Axure RP Chrome浏览插件。
-    * [Gliffy Diagrams](https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad?hl=zh-CN) - 轻松地创建具有专业外观的图表和流程图。
-    * [Moqups](https://chrome.google.com/webstore/detail/moqups-%C2%B7-mockups-wirefram/nlfbhphohgafllkjnakmdppmmkjfbnke?hl=zh-CN) - 创建清晰的实物模型，线框图和交互原型。
 
 ### 音频视频
 * 音频视频相关的插件整理
@@ -152,6 +113,38 @@
 ### 远程协助
 * 远程协助相关插件 
     * [TeamViewer](https://chrome.google.com/webstore/detail/teamviewer/oooiobdokpcfdlahlmcddobejikcmkfo) - TeamViewer的远程协助网页版，用起来并不会感觉卡。
+ 
+### 开发者工具 
+    * [Prism Pretty](https://chrome.google.com/webstore/detail/prism-pretty/hjjcdjnncffbbhlglkipjhljmocnehim) - 高亮HTML、CSS、JS代码
+    * [Fed_Navigation](https://chrome.google.com/webstore/detail/%E5%89%8D%E7%AB%AF%E5%AF%BC%E8%88%AA/kimhkkondjpjhnllknndckjppgbjnjai?hl=zh-CN%EF%BC%89) - 前端及其设计必备网站导航插件，很赞。
+    * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - ReactJs开发者工具。
+    * [PageSpeed Insights (with PNaCl)](https://chrome.google.com/webstore/detail/pagespeed-insights-with-p/lanlbpjbalfkflkhegagflkgcfklnbnh) - 页面优化检测。
+    * [WEB前端助手](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad) - 百度出的一款前端小工具集合，很好用。
+    * [RegExp Tester](https://chrome.google.com/webstore/detail/regexp-tester/fekbbmalpajhfifodaakkfeodkpigjbk) - 正则表达式测试工具。
+    * [Advanced REST client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo) - 测试HTTP请求。
+    * [CSS Grady](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - 可以快速调整浏览器窗口的尺寸，用于观察网站页面宽度。
+    * [Flag for Chrome](https://chrome.google.com/webstore/detail/flag-for-chrome/dbpojpfdiliekbbiplijcphappgcgjfn) - 在地址栏显示网站所在地区的国旗，还可以显示RP值和alexa排名。
+    * [CSS-Shack](https://chrome.google.com/webstore/detail/css-shack/geiccgjkigajaicecnhdokggninehdlp?hl=zh-CN) - 允许您创建图层样式（就像图像编辑软件），并将其导出为 CSS 文件，或者复制到剪贴板。
+    * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=zh-CN) - 格式化JSON，非常好用。
+    * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) - 前端程序员不可缺少的插件Postman。
+    * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - 检测网站使用的架构。
+    * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - EditThisCookie是一个cookie管理器。您可以添加，删除，编辑，搜索，锁定和屏蔽cookies。
+    * [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - 调试AngularJS插件。
+    * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Vuejs调试插件。
+    * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - 各种Web开发小功能。
+    * [YSlow](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) - YSlow可以分析网页，并为改善网页性能提出修改建议，这些功能基于高性能网页的规则集。
+    * [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator/dmpfoncmmihgkooacnplecaopcefceam) - Chrome地址栏中以图标形式提示JavaScript错误。
+    * [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - 此扩展可以调整浏览器窗口的大小，以适应各种屏幕分辨率。
+    * [jQuerify](https://chrome.google.com/webstore/detail/jquerify/gbmifchmngifmadobkcpijhhldeeelkc?hl=zh-CN) - jQuery扩展让你在当前网页中运行JavaScript和jQuery命令。
+    * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - 查看当前页面使用了哪些字体。
+    * [Pretty Beautiful Javascript](https://chrome.google.com/webstore/detail/piekbefgpgdecckjcpffhnacjflfoddg) - 使Javascript文件更容易阅读，添加高亮，格式化。
+    * [Firebug Lite](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench?hl=zh-CN) - Firebug的精简版。
+    * [SnappySnippet](https://chrome.google.com/webstore/detail/snappysnippet/blfngdefapoapkcdibbdkigpeaffgcil?hl=en) - 抽离页面组件代码。
+    * [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif/related?hl=en-GB) - 快速验证你的 HTMl 文档明显错误。
+    * [Responsive Web Design Tester](https://chrome.google.com/webstore/detail/responsive-web-design-tes/objclahbaimlfnbjdeobicmmlnbhamkg?hl=en) 移动端页面适配利器。
+    * [Chrome Sniffer Plus](https://chrome.google.com/webstore/detail/chrome-sniffer-plus/fhhdlnnepfjhlhilgmeepgkhjmhhhjkh) 查看网站使用了哪些技术。
+    * [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn) 清除页面缓存。
+    * [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb) 快速启动小项目或Demo的神器。
 
 ### 非Chrome插件
 * 以下列表为优秀的在线功能性网站 
