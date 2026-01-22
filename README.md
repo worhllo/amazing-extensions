@@ -115,6 +115,7 @@
     * [TeamViewer](https://chrome.google.com/webstore/detail/teamviewer/oooiobdokpcfdlahlmcddobejikcmkfo) - TeamViewer的远程协助网页版，用起来并不会感觉卡。
  
 ### 开发者工具 
+* 开发相关插件
     * [Prism Pretty](https://chrome.google.com/webstore/detail/prism-pretty/hjjcdjnncffbbhlglkipjhljmocnehim) - 高亮HTML、CSS、JS代码
     * [Fed_Navigation](https://chrome.google.com/webstore/detail/%E5%89%8D%E7%AB%AF%E5%AF%BC%E8%88%AA/kimhkkondjpjhnllknndckjppgbjnjai?hl=zh-CN%EF%BC%89) - 前端及其设计必备网站导航插件，很赞。
     * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - ReactJs开发者工具。
