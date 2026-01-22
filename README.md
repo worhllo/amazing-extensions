@@ -23,7 +23,6 @@
 
 ## 目录
 
-
 - [辅助增强](#辅助增强)
 - [艺术设计](#艺术设计)
 - [音频视频](#音频视频)
@@ -53,7 +52,8 @@
     * [图像浏览器](https://chrome.google.com/webstore/detail/%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/jpampamblikognkmdnphbcajcmiaclmo) - 可以很好的查看独立打开的图片。 
     * [Coding](https://chrome.google.com/webstore/detail/coding/mcoonjbgbflfbolhagjdbnkcejopmjjo) - Coding 让开发更简单！ 
     * [Visualping](https://chrome.google.com/webstore/detail/visualping/pemhgklkefakciniebenbfclihhmmfcd) - 内容更新实时提醒，抢购东西必备。
-    * [一键管理所有扩展](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86%E6%89%80%E6%9C%89%E6%89%A9%E5%B1%95/niemebbfnfbjfojajlmnbiikmcpjkkja) - 一键管理所有插件，可以一键禁用所有插件。
+    * [扩展管理器（Extension Manager）](https://chromewebstore.google.com/detail/%E6%89%A9%E5%B1%95%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%88extension-manager%EF%BC%89/efajbgpnlnobnkgdcgcnclngeolnmggp?hl=zh)) - [一个可以自由配置规则的扩展管理工具](https://github.com/JasonGrass/auto-extension-manager)。
+    * [扩展管理器（Extension Manager）](https://chromewebstore.google.com/detail/%E6%89%A9%E5%B1%95%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%88extension-manager%EF%BC%89/gjldcdngmdknpinoemndlidpcabkggco?hl=zh) - 一键管理所有扩展，快速开启/禁用、批量闪电管理，智能排序，右键卸载、锁定、选项配置，角标提醒，大小布局随心配。快捷、简单、安全。
     * [word highlight](https://chrome.google.com/webstore/detail/word-highlight/ooabkmkhabkahcjbgpiajffckeibpdoa?hl=en) - 为您提供当前浏览网站的站内搜索功能。
     * [SmoothScroll](https://chrome.google.com/webstore/detail/smoothscroll/nbokbjkabcmbfdlbddjidfmibcpneigj?hl=zh-CN) - 页面平滑滚动的，效果超赞。
     * [Any.do](https://chrome.google.com/webstore/detail/anydo/ocgddccilgpeepgglnlpchkpgamkgmld?hl=zh-CN) - GTD任务管理。
@@ -75,7 +75,8 @@
     * [哔哩哔哩助手](https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh) - 哔哩哔哩弹幕网辅助扩展，可以替换HTML5播放器、绕过区域限制、推送通知并进行一些快捷操作。
     * [百度贴吧助手](https://chrome.google.com/webstore/detail/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E5%8A%A9%E6%89%8B/ndjhhagfolibokijbgljdmgibmpdfdmj) - 百度贴吧自动签到，自定义表情，阅读魔法书，翻转帖子中图片，设置朋友昵称，自定义背景图，一键换号，大召唤系统，吧务工具扫描广告贴，等等。
     * [Session Manager](https://chrome.google.com/webstore/detail/session-manager/mghenlmbmjcpehccoangkdpagbcbkdpc?hl=zh-CN) - 打开了很多网页并且还没消化完网页的信息就要关机时，又不想收藏，可以加个会话，以后想看可以继续看。 
-    * [Papier](https://chrome.google.com/webstore/detail/papier/hhjeaokafplhjoogdemakihhdhffacia?hl=zh-CN) - 一个记事本，很简约。 
+    * [Papier](https://chrome.google.com/webstore/detail/papier/hhjeaokafplhjoogdemakihhdhffacia?hl=zh-CN) - 一个记事本，很简约。
+      
 ### 艺术设计
 * 设计师插件汇聚 
     * [Text Mode](https://chrome.google.com/webstore/detail/text-mode/adelhekhakakocomdfejiipdnaadiiib) - 黑白显示页面，图片将替换成色块方便查看页面布局是否合理。
