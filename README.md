@@ -51,7 +51,6 @@
     * [Google文档](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) - 使用Google文档、表格和幻灯片来查看和编辑Microsoft Word、Excel和PowerPoint文件。
     * [图像浏览器](https://chrome.google.com/webstore/detail/%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/jpampamblikognkmdnphbcajcmiaclmo) - 可以很好的查看独立打开的图片。 
     * [Coding](https://chrome.google.com/webstore/detail/coding/mcoonjbgbflfbolhagjdbnkcejopmjjo) - Coding 让开发更简单！ 
-    * [Visualping](https://chrome.google.com/webstore/detail/visualping/pemhgklkefakciniebenbfclihhmmfcd) - 内容更新实时提醒，抢购东西必备。
     * [扩展管理器（Extension Manager）](https://chromewebstore.google.com/detail/%E6%89%A9%E5%B1%95%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%88extension-manager%EF%BC%89/efajbgpnlnobnkgdcgcnclngeolnmggp?hl=zh)) - [一个可以自由配置规则的扩展管理工具](https://github.com/JasonGrass/auto-extension-manager)。
     * [扩展管理器（Extension Manager）](https://chromewebstore.google.com/detail/%E6%89%A9%E5%B1%95%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%88extension-manager%EF%BC%89/gjldcdngmdknpinoemndlidpcabkggco?hl=zh) - 一键管理所有扩展，快速开启/禁用、批量闪电管理，智能排序，右键卸载、锁定、选项配置，角标提醒，大小布局随心配。快捷、简单、安全。
     * [word highlight](https://chrome.google.com/webstore/detail/word-highlight/ooabkmkhabkahcjbgpiajffckeibpdoa?hl=en) - 为您提供当前浏览网站的站内搜索功能。
@@ -59,12 +58,12 @@
     * [Any.do](https://chrome.google.com/webstore/detail/anydo/ocgddccilgpeepgglnlpchkpgamkgmld?hl=zh-CN) - GTD任务管理。
     * [番茄计时器](https://chrome.google.com/webstore/detail/pomodoro-timer/hfgjlgjnpkpmnpojkkpfkogapiclopop?hl=zh-CN) - 应用番茄工作法，使你提高专注及效率。
     * [500px Image Downloader](https://chrome.google.com/webstore/detail/500px-image-downloader/acjcbplodpbobhhldcnldfncadnglgmb?hl=zh-CN) - 500px图片右键下载。
-    * [莆田系医院网站提醒](https://chrome.google.com/webstore/detail/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2%E7%BD%91%E7%AB%99%E6%8F%90%E9%86%92/pihadmdiehanenijehoohjnpiaofmmng?hl=zh-CN) - 莆田系医院网站提醒，对于莆田系无良网站，将显示红色警告提示，并给出它的医院名字和所在城市。。
     * [迅雷、QQ旋风-链接自动转换](https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E3%80%81qq%E6%97%8B%E9%A3%8E-%E9%93%BE%E6%8E%A5%E8%87%AA%E5%8A%A8%E8%BD%AC%E6%8D%A2/pfgjjlnidkopfimlhcfcjhakhifbnmof?hl=zh-CN) - 自动转换迅雷、QQ旋风、快车专用链的工具。
     * [IP Address](https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa?hl=zh-CN) - 查询每个IP 地址、域名和提供程序的详细的信息。
     * [中国天气预报(APP)](https://chrome.google.com/webstore/detail/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5app/cgcdonocbjegcobmnfkahjppcfhpnjoi) - 中国天气预报，首款可换肤动态天气插件，实时预报全国实况天气。
     * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - 广告拦截插件。
     * [crxMouse Chrome Gestures](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo) - 一个鼠标手势插件，非常好用。
+    * [FlowMouse - 心流鼠标手势]([https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo](https://chromewebstore.google.com/detail/flowmouse-%E5%BF%83%E6%B5%81%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF/fnldhkfidchnjiokpoemdhoejmaojkgp?hl=zh))
     * [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - 密码记录表单。
     * [Fatkun图片批量下载](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf) - 可以批量下载图片。
     * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) - 鼠标移动图片上会放大原图，看微博浏览图片很方便 。
