@@ -27,7 +27,7 @@
 - [艺术设计](#艺术设计)
 - [音频视频](#音频视频)
 - [书签阅读](#书签阅读)
-- [翻译](#翻译)
+- [翻译与OCR](#翻译与OCR)
 - [人工智能](#人工智能)
 - [科学上网](#科学上网)
 - [远程协助](#远程协助)
@@ -99,7 +99,7 @@
 * 书签同步管理相关插件
     * [Pocket](https://chrome.google.com/webstore/detail/pocket/mjcnijlhddpbdemagnpefmlkjdagkogk?hl=zh-CN) - 离线阅读。
 
-### 翻译
+### 翻译与OCR
 * 翻译相关插件 
     * [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad) - 选中单词即可翻译。
     * [百度翻译](http://fanyi.baidu.com/static/webpage/pluginPage.html) - 百度翻译。
