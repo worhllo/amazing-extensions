@@ -1,7 +1,6 @@
 <h1 align="center">
     <img width="300" src="./logoImg2.png" alt="Awesome">
 
-
 ---
 
 <br>
@@ -224,6 +223,7 @@
     * [GitHub Sort Content](https://greasyfork.org/zh-CN/scripts/21373-github-sort-content) - Github排序脚本。
     * [GitHub Diff Links](https://greasyfork.org/zh-CN/scripts/21559-github-diff-links) - 添加当前文件版本前后按钮方便对比代码。
 
-
+## 参考
+本仓库基于[ChromePlugIns](https://github.com/iuunhao/ChromePlugIns)修改
 
 
