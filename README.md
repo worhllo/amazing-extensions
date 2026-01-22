@@ -7,17 +7,8 @@
 <br>
 
 ## 简介
-这个仓库主要收集一些好用的Chrome插件，主要偏向于开发者及日常使用。
+这个仓库主要收集一些好用的Chrome插件，如果你有想要推荐的插件，欢迎按照以下格式提交[issues](https://github.com/worhllo/amazing-extensions/issues)。
 
-它们可以使得我们的工作生活，更加高效。
-
-我们需要这些插件帮助我们更好的完成工作，同时也将这些插件分享你。
-
-该项目会持续更新。
-
-格式参照[awesome](https://github.com/sindresorhus/awesome)的清单。
-
-您也可以使用[issues](https://github.com/iuunhao/ChromePlugIns/issues)来告诉我，您认为值得推荐插件。
 
 ```md
 插件名称：(名称)
@@ -28,7 +19,7 @@
 
 
 ## 使用说明
-以下所有插件链接均为Google官方链接，需要先自行[翻墙(点我马上翻墙)](https://github.com/getlantern/lantern-binaries)方可打开。
+以下所有插件链接均为Google官方链接，请自行跳转。
 
 
 ## 目录
@@ -233,7 +224,6 @@
     * [GitHub Sort Content](https://greasyfork.org/zh-CN/scripts/21373-github-sort-content) - Github排序脚本。
     * [GitHub Diff Links](https://greasyfork.org/zh-CN/scripts/21559-github-diff-links) - 添加当前文件版本前后按钮方便对比代码。
 
-## 贡献者
-* [@Pearyman](https://github.com/Pearyman)
+
 
 
